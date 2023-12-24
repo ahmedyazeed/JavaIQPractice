@@ -22,7 +22,10 @@ public class FileReader {
 
       /*  System.out.println(props.get("url"));
         System.out.println(props.getProperty("username"));*/
-        props.forEach((x,y)-> System.out.println(x+"="+y));
+       // props.forEach((x,y)-> System.out.println(x+"="+y));
+
+
+        System.out.println(props.toString());
 
 
 
