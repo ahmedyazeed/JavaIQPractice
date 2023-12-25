@@ -2,7 +2,6 @@ package javaIQ;
 
 import java.util.HashMap;
 
-
 public class JavaIQ15CountDuplicatedNumbers {
     // 15. Complete countDuplicates method.
     // This method should count how many numbers are appearing more than once and should return the count.
