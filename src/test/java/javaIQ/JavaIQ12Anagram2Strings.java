@@ -1,9 +1,6 @@
 package javaIQ;
 
 import java.util.Arrays;
-import java.util.LinkedHashSet;
-import java.util.Set;
-import java.util.TreeSet;
 
 public class JavaIQ12Anagram2Strings {
     // 12. Check if Two Strings are Anagrams: Given two strings, determine if they are anagrams,
@@ -22,7 +19,7 @@ public class JavaIQ12Anagram2Strings {
         // System.out.println(strArr1);
         // System.out.println(strArr2);
       /**************************************************************************************
-        // remember to use Arrays.equals builtin method not the String .equals builtin method
+         remember to use Arrays.equals builtin method not the String .equals builtin method
        **************************************************************************************/
 
         if (Arrays.equals(strArr1,strArr2)){
