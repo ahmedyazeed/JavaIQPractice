@@ -16,6 +16,7 @@ public class JavaIQ7CountAlphaOfString {
         System.out.println(NewStr2);
 //------------------------------------------------------------------
         System.out.println("---------------- Answer for second question ---------------");
+
         System.out.println();
         //Find the number of words in a string?
         String myString="Today is Wednesday and it is Java Class";
