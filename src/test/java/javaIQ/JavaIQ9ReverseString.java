@@ -1,6 +1,6 @@
 package javaIQ;
 
-public class JavaIQ10ReverseString {
+public class JavaIQ9ReverseString {
     // 9. Write a java program to reverse String? Reverse a string word by word?
 
     public static void main(String[] args) {
